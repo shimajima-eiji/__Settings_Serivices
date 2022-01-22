@@ -1,0 +1,2 @@
+# サービスURL
+https://small.chat
